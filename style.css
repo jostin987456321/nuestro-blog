@@ -17,6 +17,8 @@
 #cabesera
 {
     box-shadow: 2px 17px 26px 0px blueviolet;
+    border: 2px solid black;
+    border-bottom: 0;
     background-color: blueviolet;
     color: white;
     padding: 1em 0.8em;
