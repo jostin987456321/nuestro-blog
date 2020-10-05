@@ -25,3 +25,7 @@
     margin: 0 auto;
     color: red;
 }
+
+p:nth-child(4){
+    color: red;
+}
